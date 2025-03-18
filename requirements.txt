@@ -1,3 +1,10 @@
-pandas
-numpy
-requests
+# Selenium for web scraping
+selenium==4.20.0
+
+# WebDriver Manager for handling ChromeDriver updates
+webdriver-manager==4.0.1
+
+# Other useful dependencies (optional)
+requests==2.31.0
+beautifulsoup4==4.12.3  # If parsing HTML
+pandas==2.2.1  # If handling scraped data
